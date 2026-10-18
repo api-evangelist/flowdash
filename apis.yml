@@ -39,7 +39,8 @@ apis:
   - name: Flowdash
     description: "Automate business workflows"
     humanURL: https://docs.flowdash.com/docs/api-introduction
-    tags:
+    tags: []
+    tags_raw:
       - Documents And Productivity
     properties:
       - type: Documentation
